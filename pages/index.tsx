@@ -62,9 +62,10 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
               Kinpoe.Ray's Phoalbum Wall
             </h1>
             <p className="max-w-[40ch] text-white/75 sm:max-w-[32ch]">
-              产品经理、设计师，关注产品、人工智能。
-              Product Manager, Designer,
-              Focus on Product, Artificial Intelligence.
+              产品经理，设计师
+              关注产品，人工智能
+              Product Manager，Designer
+              Focus on Product & AI
             </p>
             <a
               className="cursor-pointer z-10 mt-6 rounded-lg border border-white bg-white px-3 py-2 text-sm font-semibold text-black transition hover:bg-white/10 hover:text-white md:mt-4"
@@ -103,17 +104,16 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         </div>
       </main>
       <footer className="p-6 text-center text-white/80 sm:p-12">
-        The End.
-        More information?Go to{" "}
+        Go to{" "}
         <a
-          href="https://www.notion.so/kinpoeray/Kinpoe-Ray-s-Notion-Site-8e18a15eff5e454cb7c234064f4760ab?pvs=4"
+          href="https://kinpoeray.notion.site/8f89616fddc4474db7e351b6ba47b9c6?v=af6446041cfb4879a13b314ef7d6ff38"
           target="_blank"
           className="font-semibold hover:text-white"
           rel="noreferrer"
         >
-           Kinpoe.Ray's Notion Site
+           Kinpoe.Ray's AIGC Library
         </a>
-        .Enjoy yourself!
+        to see more.
       </footer>
     </>
   );
