@@ -62,9 +62,12 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
               Kinpoe.Ray's Phoalbum Wall
             </h1>
             <p className="max-w-[40ch] text-white/75 sm:max-w-[32ch]">
-              产品经理，设计师
+              产品经理、设计师
+              
               关注产品，人工智能
+              
               Product Manager，Designer
+              
               Focus on Product & AI
             </p>
             <a
