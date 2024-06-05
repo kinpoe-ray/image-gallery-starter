@@ -8,7 +8,7 @@ export default function Logo() {
       decoding="async"
       data-nimg="1" 
       className="rounded-full z-10" 
-      src="https://res.cloudinary.com/drtemifzl/image/upload/v1717569459/Self-media%20Kit/Kinpoe.Ray%27s%20Avatar.jpg"
+      src="https://avatars.githubusercontent.com/u/149134281?v=4"
     />
   );
 }
