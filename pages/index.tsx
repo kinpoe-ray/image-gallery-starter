@@ -101,16 +101,15 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         </div>
       </main>
       <footer className="p-6 text-center text-white/80 sm:p-12">
-        Go to{" "}
+        Want more info? → {" "}
         <a
           href="https://kinpoeray.notion.site/8f89616fddc4474db7e351b6ba47b9c6?v=af6446041cfb4879a13b314ef7d6ff38"
           target="_blank"
           className="font-semibold hover:text-white"
           rel="noreferrer"
         >
-           Kinpoe.Ray's AIGC Library
+           Kinpoe.Ray's AIGC Library 
         </a>
-           and see more.
       </footer>
     </>
   );
