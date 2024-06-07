@@ -110,7 +110,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         >
            Kinpoe.Ray's AIGC Library
         </a>
-          to see more.
+           and see more.
       </footer>
     </>
   );
